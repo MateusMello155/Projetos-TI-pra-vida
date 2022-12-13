@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(100, 91, 91);
+}
+
+#titulo{
+color: rgb(255, 255, 255);
+font-size: 50px;
+margin: 30px;
+}
+#container{
+border-radius: 10px;
+margin-top: 10px ;
+display: flex;
+align-items: center;
+background-color: blue;
+
+}
+
+#card{
+border: solid;
+   border-color: rgb(230, 2, 2);
+   border-radius: 8px;
+   box-shadow: none;
+   margin: 10px;
+   background-color: rgb(209, 209, 51);
+    
+    
+    
+}
+
+h1{
+    font-size: 18px;
+    text-align: center;
+    color: red;
+    
+
+}
+h3{
+    font-size: 14px;
+    text-align: center;
+    color: blue;
+}
+
+
+
